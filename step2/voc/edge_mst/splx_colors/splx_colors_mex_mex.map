@@ -1,0 +1,9 @@
+MEX {
+	global:
+		mexFunction;
+		splx_colors;
+		splx_colors_initialize;
+		splx_colors_terminate;
+	local:
+		*;
+};
